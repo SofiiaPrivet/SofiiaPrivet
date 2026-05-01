@@ -1,16 +1,20 @@
-## Hi there 👋
+# Sofiia Savytska
 
-<!--
-**SofiiaPrivet/SofiiaPrivet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Creative Technologist · Visual & Spatial Designer · Berlin**
 
-Here are some ideas to get you started:
+I build at the intersection of creative code, spatial experience, and AI-augmented design — where data becomes atmosphere, and space becomes responsive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently building**
+[air-drift](https://github.com/SofiiaPrivet/air-drift) — a real-time atmospheric organism driven by live urban air quality data. Rendered in Three.js with custom GLSL shaders. The system adapts to pollution the way living things do: not by resisting, but by slowly losing sensitivity.
+
+---
+
+**Practice**
+Three.js · GLSL · WebGL · Blender · Cinema 4D · After Effects · Figma · AI agent workflows
+
+**Background**
+3D & motion production · Visual identity · UX systems · Performing arts · Applied psychology
+
+---
+
+[sofiiasavytska.com](https://sofiiasavytska.com) &nbsp;·&nbsp; [linkedin.com/in/sofiiasavytska](https://linkedin.com/in/sofiiasavytska)
