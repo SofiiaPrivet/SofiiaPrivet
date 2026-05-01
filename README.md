@@ -1,6 +1,6 @@
 # Sofiia Savytska
 
-**Creative Technologist · Visual & Spatial Designer · Berlin**
+**Creative Technologist · Visual Designer · Berlin**
 
 I build at the intersection of creative code, spatial experience, and AI-augmented design — where data becomes atmosphere, and space becomes responsive.
 
