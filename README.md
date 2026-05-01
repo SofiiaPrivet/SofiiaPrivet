@@ -17,4 +17,4 @@ Three.js · GLSL · WebGL · Blender · Cinema 4D · After Effects · Figma · A
 
 ---
 
-[sofiiasavytska.com](https://sofiiasavytska.com) &nbsp;·&nbsp; [linkedin.com/in/sofiiasavytska](https://linkedin.com/in/sofiiasavytska)
+[sofiiasavytska.com](https://sofiiasavytska.com) &nbsp;·&nbsp; [linkedin.com/in/sofiia-savytska](https://linkedin.com/in/sofiia-savytska)
